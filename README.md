@@ -1,6 +1,6 @@
 # newtes1
 
-A new Flutter project.
+last update provider mix from amal after second exam.
 
 ## Getting Started
 
